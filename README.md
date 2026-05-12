@@ -2,9 +2,7 @@
 
 **`Desenvolvedora Jr.`**
 
-# Mônica Evangelista
-
-Mônica Evangelista — Desenvolvedora Web e profissional de TI com experiência em desenvolvimento de sistemas, suporte técnico e projetos digitais.
+Desenvolvedora Web e profissional de TI com experiência em desenvolvimento de sistemas, suporte técnico e projetos digitais.
 
 Atuação em empresas como Stefanini e Alterbrain, com experiência em manutenção de aplicações, atendimento a clientes e gestão de soluções digitais.
 
