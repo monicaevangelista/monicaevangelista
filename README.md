@@ -2,15 +2,13 @@
 
 **`Desenvolvedora Jr.`**
 
-Me chamo Monica Evangelista, Profissional de TI com experiência em desenvolvimento web e manutenção de sistemas. Atuei em
-empresas como Stefanini e Alterbrain, desenvolvendo soluções em PHP, ASP, JavaScript, HTML e CSS.
-Realizei suporte e atendimento a clientes, gestão de projetos digitais e administração de intranets. Após
-um período dedicado à família, estou atualizando meus conhecimentos em novas tecnologias e buscando
-oportunidades home office que permitam crescimento profissional e contribuição significativa para os
-projetos da empresa.
+# Mônica Evangelista
 
+Mônica Evangelista — Desenvolvedora Web e profissional de TI com experiência em desenvolvimento de sistemas, suporte técnico e projetos digitais.
 
+Atuação em empresas como Stefanini e Alterbrain, com experiência em manutenção de aplicações, atendimento a clientes e gestão de soluções digitais.
 
+Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar, com foco em atualização tecnológica, desenvolvimento moderno e oportunidades remotas.
 
 ---
 
