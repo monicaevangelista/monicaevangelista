@@ -10,7 +10,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar, com fo
 
 ---
 
-### Linguagens e Tecnologias
+### Linguagens
 
 <img 
     align="left" 
