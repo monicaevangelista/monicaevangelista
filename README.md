@@ -8,6 +8,25 @@ Atuação em empresas como Stefanini e Alterbrain, com experiência em manutenç
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar, com foco em atualização tecnológica, desenvolvimento moderno e oportunidades remotas.
 
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=monicaevangelista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaevangelista&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 ---
 
 ### Linguagens
