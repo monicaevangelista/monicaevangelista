@@ -10,7 +10,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar, com fo
 
 
 <p>
-   <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+   <a href="https://github.com/monicaevangelista?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
